@@ -3,6 +3,5 @@
 - Kesalahan Informasi
 - Kesalahan Sebuah Instruksi
 - Memang adanya Bukti  Witzdome memberikan dan mencontohkan Tentang informasi tersebut
--# gila udah kek Dokumenter Profesional aja gua 🤣
-
-# end
+<!-- gila udah kek Dokumenter Profesional aja gua 🤣 !-->
+akhir. 
