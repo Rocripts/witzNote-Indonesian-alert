@@ -18,4 +18,4 @@ Setiap Note Juga akan di beri Topik & Asalnya dari Video keberapa Dengan format:
 - NOTES DITEMUKAN DARI PLAYLIST ARCH -
 - LENGKAPNYA DARI VIDEO 1 HINGGA VIDEO KE 6
 ...notesnya
-``
+```
