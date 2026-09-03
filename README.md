@@ -1,2 +1,7 @@
-# witzNote-Indonesian-alert
-This is a WitzNote Project, I take notes from watching Witzdome all existing video and take notes and documented them in README.md
+# WITZNOTE WITZDOME NOTE                              -- project ini merupakan catatan-catatan yang penting dari Witzdome Video
+                                                      -- Disarankan menontonn juga video Witzdome untuk memverifikasi apakah ada nya :                            
+-- * Kesalahan Informasi                                                                                   -- * Kesalahan Sebuah Instruksi
+                                                      -- * Memang adanya Bukti  Witzdome memberikan dan menc
+ontohkan informasi tersebut
+
+# end
